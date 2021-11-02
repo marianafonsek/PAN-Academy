@@ -1,0 +1,6 @@
+app\LambdaRdsMySqlHandler.class
+com\aws\lambda\mysql\data\Conexao.class
+com\aws\lambda\mysql\data\RequestDetails.class
+com\aws\lambda\mysql\MySqlConect.class
+com\aws\lambda\mysql\data\ResponseDetails.class
+com\aws\lambda\mysql\Mudar.class
